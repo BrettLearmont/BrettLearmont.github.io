@@ -38,7 +38,7 @@ li a {
 div.box2 {
     width: 130%;
     height: 50%;
-    background-color: lightblue;
+    background-color: black;
     float: left;
     height: 500px;
     width: 25%;
@@ -47,7 +47,7 @@ div.box2 {
 div.box3 {
     width: 130%;
     height: 50%;
-    background-color: rebeccapurple;
+    background-color: black;
     float: left;
     height: 500px;
     width: 25%;
@@ -77,6 +77,7 @@ div.box4:hover {
 card {
     height: 70%;
     width: 130%;
+    text-align: center;
 }
 
 
