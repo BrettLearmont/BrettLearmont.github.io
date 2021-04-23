@@ -38,7 +38,7 @@ li a {
 div.box2 {
     width: 130%;
     height: 50%;
-    background-color: pink;
+    background-color: lightblue;
     float: left;
     height: 500px;
     width: 25%;
@@ -47,7 +47,7 @@ div.box2 {
 div.box3 {
     width: 130%;
     height: 50%;
-    background-color: mediumpurple;
+    background-color: rebeccapurple;
     float: left;
     height: 500px;
     width: 25%;
@@ -56,7 +56,7 @@ div.box3 {
 div.box4 {
     width: 130%;
     height: 50%;
-    background-color: pink;
+    background-color: black;
     float: left;
     height: 500px;
     width: 25%;
@@ -75,8 +75,8 @@ div.box4:hover {
 }
 
 card {
-    height: 90%;
-    width: 90%;
+    height: 70%;
+    width: 130%;
 }
 
 
