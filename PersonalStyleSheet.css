@@ -24,7 +24,6 @@ li a {
     text-decoration: none;
     color: black;
     border-radius: 10px;
-    
 }
 
     li a:hover {
@@ -76,7 +75,17 @@ card {
     text-align: center;
 }
 
+div.AboutSkills {
+    text-align: left;
+}
 
+div.Projects {
+    text-align:left;
+}
+
+div.EmploymentHistory {
+    text-align:left;
+}
 
 
 
